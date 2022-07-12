@@ -1,6 +1,7 @@
 ### Mostly pushing my [Kaggle](https://www.kaggle.com/proselotis) code nowadays. Will see what open source possibilites come next ⚡
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=proselotis.proselotis&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜)
 
 <!--
 **proselotis/proselotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
