@@ -1,4 +1,4 @@
-### Mostly pushing my [Kaggle](https://www.kaggle.com/proselotis) code nowadays. Looking to contribute to open soure projects of interest when available
+### Mostly pushing my [Kaggle](https://www.kaggle.com/proselotis) code nowadays. Looking to contribute to open source projects of interest when available
 
 
 
